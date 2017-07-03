@@ -13,6 +13,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "express": "^4.15.3",
     "faker": "^3.1.0",
     "lodash": "^4.17.2",
     "react": "15.4.1",
@@ -22,7 +23,8 @@
     "react-router": "^3.0.0",
     "redux": "^3.6.0",
     "redux-form": "^6.3.2",
-    "redux-thunk": "^2.1.0"
+    "redux-thunk": "^2.1.0",
+    "webpack-dev-middleware": "^1.11.0"
   },
   "devDependencies": {
     "babel-core": "^6.17.0",
